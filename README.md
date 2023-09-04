@@ -1,1 +1,1 @@
-# Exercise B: Functions
+# Exercise E: Ultimate Rust Crash Course
